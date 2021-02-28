@@ -1,0 +1,6 @@
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\bin\Debug\Com.Cognizant.MovieCruiser.Model.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\bin\Debug\Com.Cognizant.MovieCruiser.Model.pdb
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\obj\Debug\Com.Cognizant.MovieCruiser.Model.csprojAssemblyReference.cache
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\obj\Debug\Com.Cognizant.MovieCruiser.Model.csproj.CoreCompileInputs.cache
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\obj\Debug\Com.Cognizant.MovieCruiser.Model.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Model\obj\Debug\Com.Cognizant.MovieCruiser.Model.pdb

@@ -1,0 +1,11 @@
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Dao.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Model.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Utility.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.MovieCruiser.Model.pdb
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\bin\Debug\Com.Cognizant.Moviecruiser.Utility.pdb
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csprojAssemblyReference.cache
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csproj.CoreCompileInputs.cache
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.csproj.CopyComplete
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.dll
+E:\asp.net\Com.Cognizant.MovieCruiser.Dao\Com.Cognizant.MovieCruiser.Dao\obj\Debug\Com.Cognizant.MovieCruiser.Dao.pdb
